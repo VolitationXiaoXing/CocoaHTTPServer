@@ -1,4 +1,4 @@
-# CocoaHTTPServer
+# VXXHTTPServer
 
 [![Build Status](https://travis-ci.org/robbiehanson/CocoaHTTPServer.svg)](https://travis-ci.org/robbiehanson/CocoaHTTPServer)
  [![Version](http://img.shields.io/cocoapods/v/CocoaHTTPServer.svg?style=flat)](http://cocoapods.org/?q=CocoaHTTPServer)
